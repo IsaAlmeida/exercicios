@@ -13,6 +13,9 @@
 		<a href="20200826/index.php"> 26/08/2020 - Exercício Ajax</a> <br/>
 		<a href="20200916/form.php"> 16/09/2020 - Atividade API VIACEP </a> <br/>
 		<a href="projeto/grupoB.php"> 16/09/2020 - Projeto Prático do 1º Bimestre </a> <br/>
-       
-    </body>
+		
+		<p> <h2> 3º Bimestre: </h2> </p>
+		<p> <a href="20201104/index.php"> 04/11/2020 - Projeto acumulativo - Astronomia </a> </p>
+	</body>
+</html>
 </html>
